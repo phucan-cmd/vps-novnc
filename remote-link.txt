@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://virtual-deadline-crossing-joshua.trycloudflare.com/vnc.html
+URL       : https://radius-building-ranging-premier.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-03 22:26:09
+Created   : 2026-06-04 02:41:34
 =======================================================
