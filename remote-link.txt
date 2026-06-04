@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://radius-building-ranging-premier.trycloudflare.com/vnc.html
+URL       : https://pasta-confidentiality-decor-advances.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-04 02:41:34
+Created   : 2026-06-04 08:45:44
 =======================================================
