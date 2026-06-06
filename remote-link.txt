@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://replacing-plastics-later-phys.trycloudflare.com/vnc.html
+URL       : https://featuring-medication-pump-ivory.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-06 11:18:38
+Created   : 2026-06-06 16:04:09
 =======================================================
