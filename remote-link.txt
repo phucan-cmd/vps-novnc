@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://attitudes-sculpture-ray-phys.trycloudflare.com/vnc.html
+URL       : https://light-need-sticks-coupon.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-11 09:09:52
+Created   : 2026-06-11 13:55:00
 =======================================================
