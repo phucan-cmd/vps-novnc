@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://contributors-clip-waiver-meditation.trycloudflare.com/vnc.html
+URL       : https://ruled-baseline-reproduce-application.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-12 12:51:54
+Created   : 2026-06-12 17:33:33
 =======================================================
