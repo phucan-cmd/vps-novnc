@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://trout-wizard-relaxation-shot.trycloudflare.com/vnc.html
+URL       : https://diego-innovations-secrets-lie.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-13 02:16:11
+Created   : 2026-06-13 08:18:47
 =======================================================
