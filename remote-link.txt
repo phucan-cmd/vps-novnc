@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://novelty-else-classroom-ensures.trycloudflare.com/vnc.html
+URL       : https://tracking-military-veteran-messages.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-15 22:13:37
+Created   : 2026-06-16 02:46:19
 =======================================================
