@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://counseling-libs-fridge-kinds.trycloudflare.com/vnc.html
+URL       : https://sky-injuries-permanent-elephant.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-17 09:28:33
+Created   : 2026-06-17 13:39:20
 =======================================================
