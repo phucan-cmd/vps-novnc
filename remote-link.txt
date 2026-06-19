@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://liable-advertisement-recently-offline.trycloudflare.com/vnc.html
+URL       : https://note-bargains-yours-fold.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 09:27:16
+Created   : 2026-06-19 13:30:41
 =======================================================
