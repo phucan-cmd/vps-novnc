@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hat-plaza-blah-fiction.trycloudflare.com/vnc.html
+URL       : https://won-routers-companies-phase.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 02:42:16
+Created   : 2026-06-21 08:55:53
 =======================================================
