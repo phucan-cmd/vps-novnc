@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://bizarre-adapted-freely-automatically.trycloudflare.com/vnc.html
+URL       : https://warcraft-screenshot-pointing-issue.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-28 11:43:55
+Created   : 2026-06-28 16:05:00
 =======================================================
